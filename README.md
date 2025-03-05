@@ -1,4 +1,4 @@
-# Frontend of [Your Project Name]
+# Frontend
 
 The frontend of this project is built using **HTML, CSS, and JavaScript** (or specify the framework like React, Vue, Angular, etc.). It provides a clean and responsive user interface to interact with the system efficiently.
 
